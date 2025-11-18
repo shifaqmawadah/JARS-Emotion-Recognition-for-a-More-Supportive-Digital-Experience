@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-# jars_app
+# JARS: Emotion Recognition For A More Supportive Digital Experience
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# JARS-Emotion-Recognition-for-a-More-Supportive-Digital-Experience
->>>>>>> a3a8c292fcd396d3db108073f7e870a2bfccf427
