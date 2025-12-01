@@ -15,16 +15,16 @@ JARS is an intelligent mobile application designed to provide real-time, persona
 
 ## Outcome on Usabiity
 1. Users write a short diary about how they feel today
-<img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/76719cc8-0615-46fd-8831-d16de21ef66f" />
+<img width="78" height="160" alt="Image" src="https://github.com/user-attachments/assets/76719cc8-0615-46fd-8831-d16de21ef66f" />
 
 2. The app detects the emotion from the text and it updates the mood
-<img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/a935a2d1-ad6a-403e-91f3-af82cd8d4fc6" />
+<img width="78" height="160" alt="Image" src="https://github.com/user-attachments/assets/a935a2d1-ad6a-403e-91f3-af82cd8d4fc6" />
 
 3. The app shows content that matches the detected mood
-<img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/0bf75f3b-074b-43cb-8c67-31a6765e4f09" />
+<img width="78" height="160" alt="Image" src="https://github.com/user-attachments/assets/0bf75f3b-074b-43cb-8c67-31a6765e4f09" />
    
 5. A calendar is used to track the user’s mood over time
-<img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/d986f999-3a48-4eec-9a30-c724ce9090d9" />
+<img width="78" height="160" alt="Image" src="https://github.com/user-attachments/assets/d986f999-3a48-4eec-9a30-c724ce9090d9" />
 
 ## Impact & Contribution on Society
 - JARS helps people, especially teenagers, understand and manage their emotions. 
