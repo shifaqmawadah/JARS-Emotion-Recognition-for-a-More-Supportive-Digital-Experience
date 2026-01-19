@@ -29,7 +29,7 @@ JARS is an intelligent mobile application designed to provide real-time, persona
 - Supports mental well-being through empathetic responses and mood tracking.
 
 ## Conclusion & Future Work
-JARS shows that technology can recognize emotions and respond supportively. It provides a helpful and engaging experience that promotes emotional awareness and better digital interactions. Future plans include adding voice and facial emotion detection, improving accuracy, and expanding use in areas like education and mental health support.
+JARS shows that technology can recognize emotions and respond supportively. It provides a helpful and engaging experience that promotes emotional awareness and better digital interactions. Future plans include adding voice and facial emotion detection and improving accuracy.
 
 
 
