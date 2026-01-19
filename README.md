@@ -31,7 +31,7 @@ JARS is an intelligent mobile application designed to provide real-time, persona
 | Home | Overview of today’s mood and quick access to main features | <img width="120" height="250" alt="Image" src="https://github.com/user-attachments/assets/a935a2d1-ad6a-403e-91f3-af82cd8d4fc6" />|
 | Journal | Write diary entries, analyze emotions, and save daily journals | <img width="120" height="250" src="JOURNAL_IMAGE_1" /> <img width="120" height="250" src="JOURNAL_IMAGE_2" /> <img width="120" height="250" src="JOURNAL_IMAGE_3" /> |
 | Explore | Mood-based music, videos, and personalized feed | <img width="120" height="250" src="EXPLORE_MUSIC" /> <img width="120" height="250" src="EXPLORE_VIDEO" /> <img width="120" height="250" src="EXPLORE_FEED" /> |
-| Calendar | Track moods and emotions over time | <img width="78" height="160" alt="Image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/187947885/537446460-38400379-a8b2-40cc-a06a-7a1b8fc3ae56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260119T075221Z&X-Amz-Expires=300&X-Amz-Signature=1120ccff14cd5d41390a9049e5eb2575bd4ad0b9c3aef845e7879b79b8e127e5&X-Amz-SignedHeaders=host" /> |
+| Calendar | Track moods and emotions over time | <img width="1170" height="2532" alt="Image" src="https://github.com/user-attachments/assets/a4aea61e-5343-46d3-9592-192e4d8cf4a1" /> |
 | EmoSupport (AI) | AI-powered emotional support companion | <img width="120" height="250" alt="Image" src="https://github.com/user-attachments/assets/815b3475-6b09-445d-8ac0-a89e0bb2b2fa" /> |
 
 
