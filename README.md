@@ -1,4 +1,4 @@
-# JARS-Emotion-Recognition-for-a-More-Supportive-Digital-Experience
+# JARS: Emotion Recognition For A More Supportive Digital Experience
 
 ## Introduction
 JARS is an intelligent mobile application designed to provide real-time, personalized emotional support. By using natural language processing and sentiment analysis, it tracks users’ emotions through short text entries and delivers relevant, empathetic content based on their mood. 
