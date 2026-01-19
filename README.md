@@ -13,7 +13,7 @@ JARS is an intelligent mobile application designed to provide real-time, persona
 - To provide personalized and context-aware responses tailored to different situations.
 - To offer supportive interactions for teenagers on social media, promoting positive and empathetic engagement.
 
-## Outcome on Usabiity
+## Outcome on Usability
 | Page | Description | Preview |
 |------|------------|---------|
 | Home | Overview of today’s mood and quick access to main features | <img width="156" height="320" alt="Image" src="https://github.com/user-attachments/assets/eb2e86cc-3bae-425d-bdb5-c3c353a0765b" /> <img width="156" height="320" alt="Image" src="https://github.com/user-attachments/assets/fda00bee-8e8e-4b5d-92d3-207295b533d8" />|
