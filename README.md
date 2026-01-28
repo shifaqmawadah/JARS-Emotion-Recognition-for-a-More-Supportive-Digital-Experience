@@ -22,6 +22,15 @@ JARS is an intelligent mobile application designed to provide real-time, persona
 | Calendar | Track moods and emotions over time | <img width="156" height="320" alt="Image" src="https://github.com/user-attachments/assets/a4aea61e-5343-46d3-9592-192e4d8cf4a1" /> <img width="156" height="320" alt="Image" src="https://github.com/user-attachments/assets/b98990f7-8f2a-4fd6-b20f-e3de7ca5dd47" /> |
 | EmoSupport (AI) | AI-powered emotional support companion | <img width="156" height="320" alt="Image" src="https://github.com/user-attachments/assets/815b3475-6b09-445d-8ac0-a89e0bb2b2fa" /> |
 
+## System Architecture & Workflow
+
+JARS is built using a **three-layer architecture** to separate model training, backend services, and the mobile app. This ensures **real-time emotion detection**, scalability, and maintainable code.
+
+| Layer | Description | Details / Preview |
+|-------|------------|-----------------|
+| **Model Training (Offline – One Time)** | The emotion classification model is trained during development using a labelled dataset. | - Dataset: ~756 text samples<br>- Model: `xlm-roberta-base` fine-tuned for emotion detection<br>- Output: trained model weights, tokenizer, label mappings<br>- Training happens **once**, not in the app |
+| **Emotion Detection API (Backend Service)** | The trained model is deployed as a REST API using FastAPI. | - Endpoint: `/predict` accepts user text<br>- Returns detected emotion + confidence score<br>- Example Response:<br>```json { "emotion": "sad", "confidence": 0.8191 }```<br>- Keeps the app lightweight and allows model updates without changing the frontend |
+| **Flutter Mobile App (Frontend)** | The user-facing app interacts with the API for real-time emotion detection. | - Users write journal entries<br>- Text is sent to the API<br>- API returns emotion label<br>- App updates UI: emoji, color, mood indicators, supportive content<br>- Entries saved locally using Hive |
 
 ## Impact & Contribution on Society
 - JARS helps people, especially teenagers, understand and manage their emotions. 
